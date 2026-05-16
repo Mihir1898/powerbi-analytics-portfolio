@@ -1,0 +1,93 @@
+# Project-3-Customer-Support-KPI-Dashboard
+
+## Project Overview
+
+This project is a Customer Support KPI Dashboard developed using Power BI and Excel to monitor customer support operations, service efficiency, SLA compliance, customer satisfaction, and ticket resolution performance.
+
+The dashboard provides operational insights into support ticket trends, response efficiency, regional workload distribution, issue categories, and ticket status monitoring.
+
+---
+
+## Tools Used
+
+- Power BI
+- Microsoft Excel
+- Data Visualization
+- KPI Analytics
+- Operational Reporting
+
+---
+
+## Key KPIs Tracked
+
+- Total Support Tickets
+- Average Customer Satisfaction Score (CSAT)
+- SLA Compliance Rate
+- Open Ticket Rate %
+- Average Resolution Time by Priority
+- Ticket Distribution by Status
+- Regional Support Volume
+- Support Volume by Channel
+- Tickets by Issue Category
+
+---
+
+## Dashboard Features
+
+### Executive KPI Monitoring
+Displays high-level operational metrics including total tickets, SLA compliance, CSAT score, and open ticket percentage.
+
+### Support Channel Analysis
+Tracks ticket volume across multiple support channels including:
+- Email
+- Chat
+- Phone
+- Portal
+
+### Resolution Time Analytics
+Analyzes average ticket resolution time across different priority levels.
+
+### Ticket Status Monitoring
+Visualizes operational ticket distribution across statuses such as:
+- Open
+- Pending
+- Resolved
+
+### Regional Operations Insights
+Monitors support workload distribution across multiple geographic regions.
+
+### Issue Category Analysis
+Tracks the most common customer issue categories impacting support operations.
+
+---
+
+## Business Insights
+
+- Identifies high-volume support channels
+- Highlights SLA performance trends
+- Tracks operational efficiency across support teams
+- Helps prioritize high-impact customer issues
+- Supports data-driven decision making for support operations
+- Improves visibility into ticket management performance
+
+---
+
+## Files Included
+
+- `Project-3-Customer-Support-KPI-Dashboard.pbix`
+- `Project-3-Customer-Support-KPI-Dashboard.pdf`
+- `customer_support_kpi_dataset.xlsx`
+
+---
+
+## Project Type
+
+Operational Analytics Dashboard
+
+---
+
+## Author
+
+Mihir Dhanawade
+MS Engineering Management | University of Dayton
+Product Support Analyst | Dayforce
