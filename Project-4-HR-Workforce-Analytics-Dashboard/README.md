@@ -1,0 +1,47 @@
+# Project 4 - HR Workforce Analytics Dashboard
+
+## Overview
+This Power BI dashboard provides workforce and HR analytics insights using a dataset of 5,000 employee records. The dashboard focuses on employee distribution, attrition trends, salary analysis, training metrics, work mode preferences, overtime analysis, and performance insights.
+
+## Tools Used
+- Power BI
+- Excel
+- HR Analytics
+- Workforce Reporting
+- Data Visualization
+
+## Key KPIs
+- Total Employees
+- Attrition Rate %
+- Average Satisfaction Score
+- Average Monthly Salary
+
+## Dashboard Insights
+- Workforce Distribution by Department
+- Average Salary by Job Role
+- Average Training Hours by Department
+- Employee Work Mode Distribution
+- Department-wise Attrition
+- Employee Count by Location
+- Average Overtime Hours by Department
+- Performance Rating Distribution
+
+## Business Value
+This dashboard helps organizations:
+- Monitor workforce trends
+- Analyze employee attrition patterns
+- Understand department-level performance
+- Evaluate salary and overtime distribution
+- Improve workforce planning and decision-making
+- Support HR and management reporting initiatives
+
+## Dataset Size
+- 5,000 Employee Records
+
+## Files Included
+- Project-4-HR-Workforce-Analytics-Dashboard.pbix
+- Project-4-HR-Workforce-Analytics-Dashboard.pdf
+- hr_workforce_analytics_dataset_5000.xlsx
+
+## Author
+Mihir Dhanawade
