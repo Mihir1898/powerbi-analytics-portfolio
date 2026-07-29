@@ -1,4 +1,4 @@
-# 📊 Power BI Analytics Portfolio
+# 📊 Power BI Business Intelligence Portfolio
 
 A collection of business intelligence dashboards built using **Power BI**, **Excel**, and enterprise support datasets. These projects demonstrate my experience in operational reporting, KPI monitoring, SLA analytics, workforce planning, and customer support insights.
 
