@@ -1,114 +1,76 @@
 # AI-Powered Enterprise Support Intelligence Dashboard
 
 ## Overview
-This project showcases an AI-driven enterprise support analytics dashboard built using Power BI. The dashboard focuses on operational intelligence, SLA monitoring, escalation risk visibility, root-cause analysis, and AI-assisted support analytics for enterprise environments.
 
-The project is designed to simulate real-world support operations similar to large-scale HCM, payroll, ERP, and enterprise SaaS support ecosystems.
-
----
-
-## Business Objective
-The goal of this dashboard is to help operations leaders, support managers, and enterprise teams:
-
-- Monitor SLA breaches and escalation trends
-- Analyze AI-predicted ticket severity
-- Identify operational risk patterns
-- Detect major root causes impacting support operations
-- Improve support efficiency and response prioritization
-- Enhance enterprise decision-making using AI-assisted analytics
+Designed and developed an AI-powered Power BI dashboard to provide intelligent operational insights across enterprise support environments. The dashboard combines business intelligence with AI-driven analytics to help support managers monitor SLA performance, identify escalation risks, analyze root causes, and improve operational decision-making through predictive insights.
 
 ---
 
-## Tools & Technologies
+## Business Problem
+
+Enterprise support organizations generate large volumes of operational data across multiple business applications, making it difficult to proactively identify SLA risks, predict incident severity, detect recurring issues, and prioritize high-impact support activities. This dashboard centralizes operational metrics and AI-driven insights into a single reporting solution that enables proactive support management and continuous operational improvement.
+
+---
+
+## Technology Stack
+
 - Power BI
-- Excel Dataset
+- Power Query
+- DAX
+- Microsoft Excel
 - Data Modeling
-- Operational Analytics
-- AI Risk Classification Logic
-- Business Intelligence Reporting
+- AI-Assisted Analytics
+- Predictive KPI Reporting
+- Operational Intelligence
+- Data Visualization
 
 ---
 
-## Dashboard KPIs
-- Total Tickets
-- SLA Breach Count
-- Escalated Tickets
-- Average AI Confidence Score
+## Key Performance Indicators (KPIs)
 
----
+### Support Performance
 
-## Key Analytics Areas
+- Total Support Tickets
+- SLA Compliance
+- Average Resolution Time
 
-### AI Escalation Risk Distribution
-Tracks AI-classified escalation risk levels across enterprise support tickets.
+### AI-Driven Operational Metrics
 
-### Ticket Volume by Issue Category
-Analyzes the most common operational support issues impacting enterprise systems.
+- Predicted Incident Severity
+- Escalation Risk Analysis
+- Root Cause Intelligence
 
-### Root Cause Analysis
-Identifies recurring operational and system-level failure patterns.
+### Operational Trends
 
-### Resolution Time by Severity
-Measures average resolution time across severity levels.
-
-### AI Predicted Severity Distribution
-Visualizes AI-generated severity predictions for support prioritization.
-
-### SLA Breach by Severity
-Tracks SLA compliance failures across different severity levels.
-
----
-
-## Dataset Information
-The dataset contains:
-- 7,000+ enterprise support ticket records
-- AI confidence scores
-- Escalation risk levels
-- SLA breach indicators
-- Resolution metrics
-- Root-cause classifications
-- Regional support operations data
-
-The dataset was designed to simulate realistic enterprise support operations and AI-assisted workflow analytics.
+- Module-wise Support Distribution
+- Priority & Severity Trends
+- Resolution Performance Analysis
 
 ---
 
 ## Business Value
-This dashboard demonstrates how AI-driven analytics can improve:
 
-- Enterprise support operations
-- Incident prioritization
-- Escalation monitoring
-- Operational visibility
-- Service performance management
-- Decision intelligence
+This dashboard enables enterprise support leaders to:
+
+- Monitor SLA compliance using AI-assisted operational insights
+- Identify high-risk incidents before SLA violations occur
+- Detect recurring operational issues through root cause intelligence
+- Improve workload prioritization using predictive analytics
+- Support proactive, data-driven operational decision-making
+
+---
+
+## Sample Business Insights
+
+- AI-assisted severity analysis identified high-risk incidents requiring immediate attention before SLA breaches occurred.
+- Payroll and HCM modules generated the highest operational workload and escalation risk.
+- Root cause intelligence highlighted recurring integration and configuration issues impacting support efficiency.
+- Predictive operational insights improved prioritization of critical support activities and resource planning.
 
 ---
 
 ## Project Files
-- Power BI Dashboard (.pbix)
-- Excel Dataset
-- Dashboard Screenshots
-- README Documentation
 
----
-
-## Author
-Mihir Dhanawade
-
-Product Support Analyst Associate with experience in:
-- Enterprise support operations
-- Payroll & HCM support analytics
-- SLA monitoring
-- Root-cause analysis
-- AI-driven operational intelligence
-- Business intelligence reporting
-
----
-
-## Future Enhancements
-- Predictive SLA breach forecasting
-- AI-based anomaly detection
-- Real-time streaming dashboards
-- Automated escalation recommendations
-- Executive operational command center view
+- AI-Driven Support Risk Analytics.pbix
+- AI-Powered Enterprise Support Intelligence Dashboard.pdf
+- ai_support_operations_intelligence_dataset.xlsx
