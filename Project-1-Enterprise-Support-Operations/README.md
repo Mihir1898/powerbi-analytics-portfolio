@@ -8,7 +8,7 @@ Designed and developed an enterprise Power BI dashboard to provide operational v
 
 ## Business Problem
 
-Enterprise support organizations manage thousands of support requests across multiple business modules, making it challenging to identify performance trends, SLA risks, recurring operational issues, and resource allocation needs using raw data alone. This dashboard consolidates operational metrics into a centralized reporting solution that improves visibility and supports faster decision-making.
+Enterprise support organizations manage large volumes of support requests across multiple business modules, making it challenging to identify performance trends, SLA risks, recurring operational issues, and resource allocation needs using raw data alone. This dashboard consolidates operational metrics into a centralized reporting solution that improves visibility, accelerates decision-making, and supports continuous operational improvement.
 
 ---
 
@@ -19,8 +19,10 @@ Enterprise support organizations manage thousands of support requests across mul
 - DAX
 - Microsoft Excel
 - Data Modeling
+- Data Transformation
 - KPI Reporting
 - Operational Analytics
+- Business Intelligence
 - Data Visualization
 
 ---
@@ -51,8 +53,8 @@ This dashboard enables support managers and operations leaders to:
 - Monitor SLA compliance across enterprise support operations
 - Identify high-volume support modules and recurring operational issues
 - Analyze escalation patterns and operational bottlenecks
-- Improve resource planning using performance insights
-- Support data-driven operational and business decisions
+- Improve resource planning using operational performance insights
+- Support data-driven operational and business decision-making
 
 ---
 
