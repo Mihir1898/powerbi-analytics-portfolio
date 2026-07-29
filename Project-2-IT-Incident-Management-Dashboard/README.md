@@ -1,106 +1,75 @@
-# Project 2 - IT Incident Management Dashboard
+# IT Incident Management Dashboard
 
 ## Overview
-This Power BI dashboard provides a comprehensive view of IT incident management operations, focusing on incident trends, SLA compliance, escalation tracking, application-level incident distribution, and operational performance monitoring.
 
-The dashboard was built using Power BI and Excel with a realistic enterprise-style dataset simulating IT support operations.
-
----
-
-## Objectives
-- Monitor overall incident volume
-- Track SLA breach and escalation rates
-- Analyze incidents by application and severity
-- Identify operational bottlenecks
-- Improve visibility into support operations performance
-- Support data-driven decision-making for IT operations teams
+Designed and developed an enterprise Power BI dashboard to provide comprehensive visibility into IT incident management operations. The dashboard enables IT managers and operations teams to monitor incident trends, SLA compliance, escalation patterns, application performance, and operational efficiency through interactive business intelligence reporting.
 
 ---
 
-## Tools Used
+## Business Problem
+
+IT support teams manage hundreds of incidents across multiple applications, priorities, and business services. Analyzing raw incident data makes it difficult to identify recurring issues, monitor SLA performance, prioritize critical incidents, and improve operational efficiency. This dashboard centralizes IT support metrics into a single reporting solution for faster analysis and better decision-making.
+
+---
+
+## Technology Stack
+
 - Power BI
+- Power Query
+- DAX
 - Microsoft Excel
+- Data Modeling
+- Incident Analytics
+- KPI Reporting
 - Data Visualization
-- Operational Analytics
 
 ---
 
-## Key Metrics
+## Key Performance Indicators (KPIs)
+
+### Incident Performance
+
 - Total Incidents
-- SLA Breach Rate
+- Open vs Closed Incidents
+- Average Resolution Time
+
+### Operational Metrics
+
+- SLA Compliance
 - Escalation Rate
-- Open Incidents
-- Average Resolution Time by Priority
-- Incidents by Application
-- Incidents by Severity
-- Incident Status Overview
+- Root Cause Analysis
 
----
+### Incident Trends
 
-## Dashboard Features
-
-### Executive KPI Cards
-- Total Incidents
-- SLA Breach Rate
-- Escalation Rate
-- Open Incidents
-
-### Incident Analytics
-- Incidents by Application
-- Incidents by Severity
-- Incident Status Overview
-
-### Performance Monitoring
-- Average Resolution Time by Priority
-- SLA Tracking
-- Escalation Monitoring
-
-### Interactive Filtering
-- Incident Status slicer for dynamic dashboard filtering
+- Application-wise Incident Distribution
+- Priority & Severity Distribution
+- Resolution Performance Trends
 
 ---
 
 ## Business Value
-This dashboard helps IT operations and support teams:
-- Improve incident response efficiency
-- Monitor SLA performance
-- Reduce escalation rates
-- Identify high-risk applications
-- Prioritize operational improvements
-- Enhance visibility into support operations
+
+This dashboard enables IT operations managers to:
+
+- Monitor incident volume and SLA compliance
+- Identify high-risk applications with recurring incidents
+- Analyze escalation trends and operational bottlenecks
+- Improve resource allocation and workload management
+- Support data-driven IT service management decisions
 
 ---
 
-## Files Included
-- Power BI Dashboard (.pbix)
-- Dashboard Export (.pdf)
-- Dataset (.xlsx)
-- README.md
+## Sample Business Insights
+
+- Critical incidents represented the highest operational risk and required significantly longer resolution times.
+- A small number of business applications generated the majority of support incidents.
+- SLA compliance remained within target while escalation analysis highlighted opportunities to improve first-contact resolution.
+- Root cause analysis identified recurring infrastructure and application issues requiring long-term corrective actions.
 
 ---
 
-## Dataset Information
-The dataset used in this project is a realistic simulated enterprise IT incident dataset created for portfolio and analytics demonstration purposes.
+## Project Files
 
-Fields included:
-- Incident_ID
-- Application
-- Severity
-- Incident_Status
-- Resolution_Time_Hours
-- SLA_Breach
-- Escalated
-- Priority
-- Region
-
----
-
-## Author
-Mihir Dhanawade
-
-Power BI Analytics Portfolio focused on:
-- IT Operations Analytics
-- Support Operations
-- SLA Monitoring
-- Incident Intelligence
-- Operational Performance Dashboards
+- Project-2-IT-Incident-Management-Dashboard.pbix
+- Project-2-IT-Incident-Management-Dashboard.pdf
+- it_incident_management_dataset.xlsx
