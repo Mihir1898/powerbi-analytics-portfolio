@@ -2,13 +2,13 @@
 
 ## Overview
 
-Designed and developed an enterprise Power BI dashboard to provide operational visibility into support performance across Payroll, Human Capital Management (HCM), Reporting, and Tax modules. The dashboard enables support managers and business leaders to monitor SLA compliance, analyze ticket trends, identify operational bottlenecks, and make data-driven decisions to improve service delivery.
+Designed and developed an enterprise Power BI dashboard to provide operational visibility into support performance across Payroll, Human Capital Management (HCM), Reporting, and Tax modules. The dashboard enables support managers and business leaders to monitor SLA compliance, analyze ticket trends, identify operational bottlenecks, and make informed, data-driven decisions to improve service delivery.
 
 ---
 
 ## Business Problem
 
-Enterprise support teams handle large volumes of incidents across multiple business modules, making it difficult to identify performance trends, SLA risks, and recurring operational issues using raw data alone. This dashboard consolidates support metrics into a centralized reporting solution for faster analysis and decision-making.
+Enterprise support organizations manage thousands of support requests across multiple business modules, making it challenging to identify performance trends, SLA risks, recurring operational issues, and resource allocation needs using raw data alone. This dashboard consolidates operational metrics into a centralized reporting solution that improves visibility and supports faster decision-making.
 
 ---
 
@@ -25,7 +25,7 @@ Enterprise support teams handle large volumes of incidents across multiple busin
 
 ---
 
-## Key KPIs
+## Key Performance Indicators (KPIs)
 
 ### Service Performance
 - Total Support Tickets
@@ -39,29 +39,29 @@ Enterprise support teams handle large volumes of incidents across multiple busin
 
 ### Support Trends
 - Module-wise Ticket Distribution
-- Priority and Severity Distribution
+- Priority & Severity Distribution
 - Resolution Performance Trends
 
 ---
 
 ## Business Value
 
-This dashboard enables support leaders to:
+This dashboard enables support managers and operations leaders to:
 
 - Monitor SLA compliance across enterprise support operations
-- Identify high-volume support modules and recurring issues
+- Identify high-volume support modules and recurring operational issues
 - Analyze escalation patterns and operational bottlenecks
-- Improve resource planning through performance insights
-- Support data-driven operational decision-making
+- Improve resource planning using performance insights
+- Support data-driven operational and business decisions
 
 ---
 
 ## Sample Business Insights
 
 - Payroll and HCM generated the highest support demand, indicating priority areas for operational improvement.
-- Critical (P1/P2) incidents required significantly longer resolution times than lower-severity issues.
+- Critical (P1/P2) incidents required significantly longer resolution times than lower-priority support requests.
 - Integration and data synchronization issues represented the largest category of recurring root causes.
-- SLA compliance remained above target while escalation analysis identified opportunities to reduce repeat incidents.
+- SLA compliance consistently remained above target while escalation analysis identified opportunities to reduce repeat incidents.
 
 ---
 
